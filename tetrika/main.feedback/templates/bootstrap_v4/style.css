@@ -1,0 +1,12 @@
+.mf-control-required { color: #f00; }
+#btn-form-feedback {
+    margin-top: 25px;
+    float: right;
+}
+.green-text {
+	color:green;
+}
+
+.red-text {
+	color:red;
+}
